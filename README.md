@@ -11,7 +11,7 @@ Following this was a smaller analysis on Parent Category and their outcomes of s
 ![Subcategory_Statistic_Bargraph](https://github.com/Cyber-Wolfe/Kickstart_Analysis/blob/main/Resources/Subcategory_Statistic_Bargraph.png)
 
 There was another requested analysis to find plays in Edinburgh and have a breakdown of the play name, description, the goal amount, pledged amount, average donation and number of backers.  Giving Louise an idea of her competition and their own success or failures for their project. Lastly an analysis of the outcomes from the Theatre categroy based on their launch date, giving Louise an idea of a better time to launch her play, whether cold months or warm months affect the success of a play or not.
-![Theatre_Outcomes_vs_Launch]([G:\Bootcamp Work\Module Deliverables\Module 1 deliverable\Module 1 HW\Resources\Theatre_Outcomes_vs_Launch.png](https://github.com/Cyber-Wolfe/Kickstart_Analysis/blob/main/Resources/Theatre_Outcomes_vs_Launch.png)
+![Theatre_Outcomes_vs_Launch](https://github.com/Cyber-Wolfe/Kickstart_Analysis/blob/main/Resources/Theatre_Outcomes_vs_Launch.png)
 
 The challenges I had run into was getting the Theatre Outcomes by Launch Date data to work due to the countifs command not working with me. Tried for a good hour just looking up examples just to find myself closing excel and reopening it to the countifs statement working.
 
