@@ -1,16 +1,16 @@
 # Kickstarting with Excel
 
 ## Overview and Purpose of Analysis
-     The purpose of this file is to illustrate to Louise how her kickstarter compared to many other play's kickstarters over the years. I had created charts and tables used to calculate the competition's successes and failures as their plays had been crowdfunding. Charts had been created to help visualize the data so that it can be easily digestible for Louise and an explaination disconnect won't occur.
+   The purpose of this file is to illustrate to Louise how her kickstarter compared to many other play's kickstarters over the years. I had created charts and tables used to calculate the competition's successes and failures as their plays had been crowdfunding. Charts had been created to help visualize the data so that it can be easily digestible for Louise and an explaination disconnect won't occur.
 
 ## Analysis and Challenges
-     What was done for this file is that the different analysees were sorted onto seperate sheets with various parameters in mind. One sheet the outcomes had been split into tiers based on the goal in mind for the project and broken down again based on a success, failure or cancelated on the play.
+   What was done for this file is that the different analysees were sorted onto seperate sheets with various parameters in mind. One sheet the outcomes had been split into tiers based on the goal in mind for the project and broken down again based on a success, failure or cancelated on the play.
 Following this was a smaller analysis on Parent Category and their outcomes of successes, failures, or cancelations as well as another break down of the Parent Catgory but shown with a Bar chart for easier understanding. Another sheet called Subcategory Statistics breakdowns subcategories by country, giving a simple bar graph to show the size of the failures, successes, and current live shows. These graphs depict each sheet respectively.
 ![Parent_Category_Outcomes](https://github.com/Cyber-Wolfe/Kickstart_Analysis/blob/main/Resources/Parent_Category_Outcomes.png) 
 
 ![Subcategory_Statistic_Bargraph](https://github.com/Cyber-Wolfe/Kickstart_Analysis/blob/main/Resources/Subcategory_Statistic_Bargraph.png)
 
-There was another requested analysis to find plays in Edinburgh and have a breakdown of the play name, description, the goal amount, pledged amount, average donation and number of backers.  Giving Louise an idea of her competition and their own success or failures for their project. Lastly an analysis of the outcomes from the Theatre categroy based on their launch date, giving Louise an idea of a better time to launch her play, whether cold months or warm months affect the success of a play or not.
+   There was another requested analysis to find plays in Edinburgh and have a breakdown of the play name, description, the goal amount, pledged amount, average donation and number of backers.  Giving Louise an idea of her competition and their own success or failures for their project. Lastly an analysis of the outcomes from the Theatre categroy based on their launch date, giving Louise an idea of a better time to launch her play, whether cold months or warm months affect the success of a play or not.
 ![Theatre_Outcomes_vs_Launch](https://github.com/Cyber-Wolfe/Kickstart_Analysis/blob/main/Resources/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Launch Date
