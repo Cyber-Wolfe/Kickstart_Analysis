@@ -1,10 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview and Purpose of Analysis
-The purpose of this file is to illustrate to Louise how her kickstarter compared to many other play's kickstarters over the years. I had created charts and tables used to calculate the competition's successes and failures as their plays had been crowdfunding. Charts had been created to help visualize the data so that it can be easily digestible for Louise and an explaination disconnect won't occur.
+     The purpose of this file is to illustrate to Louise how her kickstarter compared to many other play's kickstarters over the years. I had created charts and tables used to calculate the competition's successes and failures as their plays had been crowdfunding. Charts had been created to help visualize the data so that it can be easily digestible for Louise and an explaination disconnect won't occur.
 
 ## Analysis and Challenges
-What was done for this file is that the different analysees were sorted onto seperate sheets with various parameters in mind. One sheet the outcomes had been split into tiers based on the goal in mind for the project and broken down again based on a success, failure or cancelated on the play.
+     What was done for this file is that the different analysees were sorted onto seperate sheets with various parameters in mind. One sheet the outcomes had been split into tiers based on the goal in mind for the project and broken down again based on a success, failure or cancelated on the play.
 Following this was a smaller analysis on Parent Category and their outcomes of successes, failures, or cancelations as well as another break down of the Parent Catgory but shown with a Bar chart for easier understanding. Another sheet called Subcategory Statistics breakdowns subcategories by country, giving a simple bar graph to show the size of the failures, successes, and current live shows. These graphs depict each sheet respectively.
 ![Parent_Category_Outcomes](https://github.com/Cyber-Wolfe/Kickstart_Analysis/blob/main/Resources/Parent_Category_Outcomes.png) 
 
